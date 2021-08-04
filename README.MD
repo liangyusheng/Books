@@ -5,4 +5,6 @@
 - Python
 - PHP
 - Qt
+- Golang
+- Makefile
 - Othres
